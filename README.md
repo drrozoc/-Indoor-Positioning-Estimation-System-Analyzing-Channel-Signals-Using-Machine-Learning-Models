@@ -16,7 +16,7 @@ Locate the Edge library at the following path:
 EXAMPLE OF ADDRESS: 
 > `Habitacion_principal_11_hasta44_inferencing\src\edge-impulse-sdk\porting\espressif`
 
-Replace the existing `ESP-NN` folder with the `ESP-NN` folder from the `XIAO-ESP32S3-Sense-main` library package.
+Replace the existing `ESP-NN` folder with the `ESP-NN` folder from the `XIAO-ESP32S3-Sense-main` library package. Also, for ease of use, it can be found `ESP-NN.zip` in the deployment folder of this repository.
 
 Since the folder is compressed, you can extract it directly into the deployment directory to overwrite the original `ESP-NN` folder.
 
